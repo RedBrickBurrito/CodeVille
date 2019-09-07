@@ -1,0 +1,6 @@
+Eduardo: 500
+Mike: 310
+Carlos: 240
+Javier: 123
+Macias: 675
+Orozco: 982
