@@ -4,3 +4,7 @@ Carlos: 240
 Javier: 123
 Macias: 675
 Orozco: 982
+Lucy: 827
+Maryann: 721
+Mike: 2
+Kequis: 100

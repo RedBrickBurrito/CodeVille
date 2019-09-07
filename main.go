@@ -36,7 +36,7 @@ func pickWinner(lines []string) {
 
 	k := 0
 
-	fmt.Print("The highest scores are: ")
+	fmt.Print("The highest scores in order from first to last are: \n")
 
 	for k < 3 {
 
